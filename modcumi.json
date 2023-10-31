@@ -1,0 +1,189 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+        {
+      "name_map": "Sitinjau Lauik",
+      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-sitinjau-lauik.png",
+      "map_url": "https://archive.org/download/sitinjaulauik/sitinjaulauik.bussidmod"
+    },
+    {
+      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
+      "view_map": "file:///android_asset/tol.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    },
+    {
+      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
+      "view_map": "file:///android_asset/berkelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    },
+    {
+      "name_map": "Kelok 44",
+      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-kelok-44.png",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Innova Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-innova-cumi-darat.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/Innovasopir/Innovasopir.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pajero Sport Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-pajero-sport-cumi-darat.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/pajero/pajero.bussidmod",
+      "name_livery": "Pajero Sport",
+      "link_livery": "https://archive.org/download/pakjero/pakjero.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },  
+    {
+      "title": "Toyota Land Cruiser 300 GR Sport",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Mod-BUSSID-Toyota-Land-Cruiser-300-GR-Sport-2022-1.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/Landcruiser/Landcruiser.bussidmod",
+      "name_livery": "Land Cruiser",
+      "link_livery": "https://archive.org/download/landcruiser_202310/Landcruiser.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner GR Sport",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Download-Mod-Bussid-Toyota-Fortuner-GR-Sport-Surabaya-Style.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/toyotafortuner_202310/toyotafortuner.bussidmod",
+      "name_livery": "Fortuner GR Sport",
+      "link_livery": "https://archive.org/download/fortuner/fortuner.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Mitsubishi Triton Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/mod-bussid-mitsubishi-triton-cumi-darat-1.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/triton_202310/triton.bussidmod",
+      "name_livery": "Mitsubishi Triton",
+      "link_livery": "https://archive.org/download/triton_20231030/triton.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pajero Sport Dakar Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Mod-Bussid-Mitsubishi-Pajero-Sport-Dakar-Cumi-Darat.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/pakjerodakar/pakjerodakar.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Perkasa Tangki by Ade Iskandar",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Prambors FM 102.2 Jakarta",
+      "url_radio": "http://masima.rastream.com/masima-pramborsjakarta"
+    },
+    {
+      "title_radio": "101 Jak FM",
+      "url_radio": "http://103.246.184.34:8000/jak"
+    }
+  ]
+}
