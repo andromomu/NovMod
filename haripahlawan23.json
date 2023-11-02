@@ -1,0 +1,112 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Hari Pahlawan",
+      "image_link": "https://frame.twibbonize.com/126c0c7e-a0a4-4668-874c-0b3d0325f9a8.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 1",
+      "image_link": "https://frame.twibbonize.com/126c0c7e-a0a4-4668-874c-0b3d0325f9a8.png"
+    },
+    {
+      "id": 2,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 2",
+      "image_link": "https://frame.twibbonize.com/832796be-5b5f-47a8-bcf9-deee5d92f157.png"
+    },
+    {
+      "id": 3,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 3",
+      "image_link": "https://frame.twibbonize.com/5d6c4fc3-244a-4c7f-9479-b6deb0d37c14.png"
+    },
+    {
+      "id": 4,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 4",
+      "image_link": "https://frame.twibbonize.com/f204cabb-786b-4680-9173-53260c45162a.png"
+    },
+    {
+      "id": 5,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 5",
+      "image_link": "https://frame.twibbonize.com/6e60f189-d6f6-4513-8874-d05c2a87a09b.png"
+    },
+    {
+      "id": 6,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 6",
+      "image_link": "https://frame.twibbonize.com/2538be7b-ea1d-400e-a0ce-129d892e7e2d.png"
+    },
+    {
+      "id": 7,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 7",
+      "image_link": "https://frame.twibbonize.com/5c8d1cce-41f5-4fb6-ac2a-7fa833b970e1.png"
+    },
+    {
+      "id": 8,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 8",
+      "image_link": "https://frame.twibbonize.com/661ff92e-baf7-40e5-92bd-6bffa37acfbc.png"
+    },
+    {
+      "id": 9,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 9",
+      "image_link": "https://frame.twibbonize.com/3d4dff35-8679-4fc5-8cc7-7262880248c7.png"
+    },
+    {
+      "id": 10,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 10",
+      "image_link": "https://frame.twibbonize.com/678c46ec-dfc5-41d9-a8a3-2711d2aeb13f.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 11",
+      "image_link": "https://frame.twibbonize.com/9a4d8a88-e96a-414e-9335-7ab2a92e2fcd.png"
+    }
+,
+    {
+      "id": 12,
+      "category": "Hari Pahlawan",
+      "title": "Frame Hari Pahlawan 12",
+      "image_link": "https://frame.twibbonize.com/fc7272c7-c211-49cb-9d10-fdc8b37d8e28.png"
+    }
+
+
+
+  ]
+}
