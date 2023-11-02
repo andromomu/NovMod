@@ -1,0 +1,98 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Muhammadiyah",
+      "image_link": "https://frame.twibbonize.com/a269a5d9-ea6a-4b77-b312-70a5beceb478.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 1",
+      "image_link": "https://frame.twibbonize.com/a269a5d9-ea6a-4b77-b312-70a5beceb478.png"
+    },
+    {
+      "id": 2,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 2",
+      "image_link": "https://frame.twibbonize.com/c4fba629-d174-442a-8a72-adf76ae8bc36.png"
+    },
+    {
+      "id": 3,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 3",
+      "image_link": "https://frame.twibbonize.com/9a1fcc68-c525-43e5-9de5-e0da2ea0ca5f.png"
+    },
+    {
+      "id": 4,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 4",
+      "image_link": "https://frame.twibbonize.com/70ae3ae0-4b6a-4d12-930f-effe168a8f08.png"
+    },
+    {
+      "id": 5,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 5",
+      "image_link": "https://frame.twibbonize.com/c7302191-4ea3-43f1-b1d4-47f47671bbaf.png"
+    },
+    {
+      "id": 6,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 6",
+      "image_link": "https://frame.twibbonize.com/0cac3ea2-739f-4b28-a6ef-67f4e18a3121.png"
+    },
+    {
+      "id": 7,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 7",
+      "image_link": "https://frame.twibbonize.com/6250ca4e-280e-4b1a-826b-44733216765b.png"
+    },
+    {
+      "id": 8,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 8",
+      "image_link": "https://frame.twibbonize.com/c685fe27-44f4-4bb3-818f-db978ec65668.png"
+    },
+    {
+      "id": 9,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 9",
+      "image_link": "https://frame.twibbonize.com/bfdff2e7-c393-47a6-85f2-85960c57a0ad.png"
+    },
+    {
+      "id": 10,
+      "category": "Muhammadiyah",
+      "title": "Milad Muhammadiyah 10",
+      "image_link": "https://frame.twibbonize.com/f34f2f88-fae8-48d7-85d6-d4d8d71aa06f.png"
+    }
+
+
+  ]
+}
